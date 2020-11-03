@@ -6,3 +6,8 @@ diesel
 long matches
 magnets
 caution tape
+kazoos
+bubble wrap
+voovoozela
+tamborine
+cow bell
