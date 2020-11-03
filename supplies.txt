@@ -13,3 +13,4 @@ cow bell
 batteries
 remote
 camera
+magnets
