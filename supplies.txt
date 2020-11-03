@@ -1,4 +1,4 @@
-tequila
+whiskey
 beer
 bonfire
 lighter fluit
@@ -6,4 +6,3 @@ diesel
 long matches
 magnets
 caution tape
-A change
