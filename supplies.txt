@@ -2,3 +2,5 @@ pizza
 cake
 icecream
 whiskey
+tequila
+beer
